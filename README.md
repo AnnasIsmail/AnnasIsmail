@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ngabjago
+- 👋 Hi, I’m @AnnasIsmail
 - 👀 I’m interested in Website Programing
 - 🌱 I’m currently learning Website Programing
-- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me on my Instagram @annasismailm
 
 <!---
